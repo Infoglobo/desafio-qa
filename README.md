@@ -8,7 +8,9 @@ A maioria dos nossos produtos demanda testes focados no comportamento e no visua
 #### O desafio consiste de dois exercícios:
 
 1. Você deve escrever uma especificação para a página de assinatura da Newsletter O Globo com cenários de testes.
+
 URL: http://oglobo.globo.com/newsletter/cardapio/
+
 Pode ignorar o cabeçalho e o rodapé da página. Concentre-se nas funcionalidades da Newsletter.
  
 Ganha mais pontos se contiver:
@@ -16,6 +18,7 @@ Ganha mais pontos se contiver:
 * Especificação feita em formato Gherkin (Cucumber, BDD).
 
 2. Vc deve implementar os testes funcionais, utilizando Selenium WebDriver, para a página mobile de Fotogalerias do Jornal O GLOBO.
+
 URL: http://m.oglobo.globo.com/fotogalerias/ 
 
 Alguns pontos de atenção:
