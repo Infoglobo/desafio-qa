@@ -40,7 +40,8 @@ Processo de submissão:
 Após criar os cenários e os testes automatizados, você deve:
 * Elaborar um pequeno documento sobre como importar os testes funcionais no Eclipse IDE;
 * Compactar o projeto de testes funcionais.
-* Enviar os cenários e os testes funcionais para o email indicado na mensagem da proposta.
+* Ao concluir, publique o resultado em seu repositório e envie-nos a URL de seu desafio para que possamos avaliar.
+
 
 Bom desafio!
 
