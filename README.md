@@ -12,29 +12,33 @@ URL: http://oglobo.globo.com/newsletter/cardapio/
 Pode ignorar o cabeçalho e o rodapé da página. Concentre-se nas funcionalidades da Newsletter.
  
 Ganha mais pontos se contiver:
-● Especificação feita em formato Gherkin (Cucumber, BDD).
+
+* Especificação feita em formato Gherkin (Cucumber, BDD).
 
 2. Vc deve implementar os testes funcionais, utilizando Selenium WebDriver, para a página mobile de Fotogalerias do Jornal O GLOBO.
 URL: http://m.oglobo.globo.com/fotogalerias/ 
 
 Alguns pontos de atenção:
-● Versão mobile;
-● Pode ignorar o cabeçalho e o rodapé da página;
-● Use o navegador Chrome.
-● A área "Recomendadas" possui sempre 6 fotogalerias;
-● A área "Mais vistas" possui sempre 3 fotogalerias;
-● A área "Últimas de" possui sempre a opção "Todas" selecionada por default;
-● A área "Últimas de" possui sempre 3 fotogalerias ao carregar a página e ao escolher outra opção no "select" exibido;
+* Versão mobile;
+* Pode ignorar o cabeçalho e o rodapé da página;
+* Use o navegador Chrome.
+* A área "Recomendadas" possui sempre 6 fotogalerias;
+* A área "Mais vistas" possui sempre 3 fotogalerias;
+* A área "Últimas de" possui sempre a opção "Todas" selecionada por default;
+* A área "Últimas de" possui sempre 3 fotogalerias ao carregar a página e ao escolher outra opção no "select" exibido;
+
 Ganha mais pontos se:
-● Utilizar linguagem Java;
-● Utilizar ChromeDriver emulando um smartphone;
-● Utilizar uma classe para testes e outra para a identificação e interação com os elementos;
-● Evitar o uso de XPath para identificar os elementos da página.
+* Utilizar linguagem Java;
+* Utilizar ChromeDriver emulando um smartphone;
+* Utilizar uma classe para testes e outra para a identificação e interação com os elementos;
+* Evitar o uso de XPath para identificar os elementos da página.
+
 Processo de submissão:
 Após criar os cenários e os testes automatizados, você deve:
-● Elaborar um pequeno documento sobre como importar os testes funcionais no Eclipse IDE;
-● Compactar o projeto de testes funcionais.
-● Enviar os cenários e os testes funcionais para o email indicado na mensagem da proposta.
+* Elaborar um pequeno documento sobre como importar os testes funcionais no Eclipse IDE;
+* Compactar o projeto de testes funcionais.
+* Enviar os cenários e os testes funcionais para o email indicado na mensagem da proposta.
+
 Bom desafio!
 
 # Sobre nós
