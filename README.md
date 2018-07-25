@@ -9,7 +9,7 @@ A maioria dos nossos produtos demanda testes focados no comportamento e no visua
 
 1. Você deve escrever uma especificação para a página de assinatura da Newsletter O Globo com cenários de testes.
 
-URL: http://oglobo.globo.com/newsletter/cardapio/
+URL: https://oglobo.globo.com/newsletter/cardapio/
 
 Pode ignorar o cabeçalho e o rodapé da página. Concentre-se nas funcionalidades da Newsletter.
  
@@ -19,7 +19,7 @@ Ganha mais pontos se contiver:
 
 2. Vc deve implementar os testes funcionais, utilizando Selenium WebDriver, para a página mobile de Fotogalerias do Jornal O GLOBO.
 
-URL: http://m.oglobo.globo.com/fotogalerias/ 
+URL: https://m.oglobo.globo.com/fotogalerias/ 
 
 Alguns pontos de atenção:
 * Versão mobile;
