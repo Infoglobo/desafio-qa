@@ -47,6 +47,11 @@ Bom desafio!
 
 # Sobre nós
 
+## Medium
+Para conhecer um pouco sobre os nossos desafios nos acompanhe no Medium:
+
+https://medium.com/editora-globo
+
 ## Infoglobo
 A Infoglobo através de seus produtos - os jornais O Globo, Extra e Expresso, com os sites Globo e Extra e a Agência O Globo - tem o dever de apurar o fato, oferecendo aos seus leitores a informação mais completa, sempre com a preocupação de adequar a linguagem ao público a que se destina. Além de esclarecer o que acontece de mais importante no Brasil e no mundo, os produtos da Infoglobo também são uma ferramenta de acesso ao melhor do entretenimento e da cultura. A Infoglobo tem muito orgulho desse papel e trabalha com o compromisso de levar jornalismo sério e isento à população.
 
